@@ -1,4 +1,4 @@
-# EvenDo ASP.NET Core API Search For Item Your With Elasticsearch
+# EvenDo ASP.NET Core API Search For Item With Elasticsearch
 
 
 To run this project you will need:
